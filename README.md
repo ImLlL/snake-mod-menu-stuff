@@ -7,3 +7,7 @@ and click the 3 dots in the the lefr cornor of your screen and click ¨add bookm
 javascript: req = new XMLHttpRequest(); req.open('GET', 'https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeCustomMenuStuff/main/custom.js'); req.onload = function() { eval(this.responseText + 'snake.more_menu();'); }; req.send();
 
 than open up the google snake game. To use the mod just click it from your bookmark shelf. And your all set :)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Credit To Darksnakegang.
